@@ -26,7 +26,7 @@
    User-profile
 </h2>
 
-![mytime](https://user-images.githubusercontent.com/45535344/182681921-276c95a4-e722-4383-bdaa-95cfeed09bc9.gif)
+![user-profile](https://github.com/issufibadji/user-profile/blob/master/user-profile.png)
 
 ## :book: Sobre
 O **User-profile**
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ (CSS)
 3. ✔️ (JS)
 
-![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
+![user-profile](https://github.com/issufibadji/user-profile/blob/master/perfil.png)
 
 ## 🔖Layout
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/2316219-User-profile) para acessá-lo.
