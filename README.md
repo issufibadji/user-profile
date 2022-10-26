@@ -1,7 +1,7 @@
-# User-profile
-<h1 align="center" color=" ">
-   Mytime
-</h1>
+
+<h2 align="center" color=" ">
+   User-profile
+</h2>
 
 <p align="center">
     <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,10 +21,6 @@
 
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/user-profile?style=flat-square">
 </p>
-
-<h2 align="center" color=" ">
-   User-profile
-</h2>
 
 ![user-profile](https://github.com/issufibadji/user-profile/blob/master/user-profile.png)
 
